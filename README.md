@@ -1,7 +1,7 @@
 Hello!<br/>
 <br/>
 POSTECH Bachelor of Science in Computer Science and Engineering, 2019 ~ 2021</br>
-(     ) University Bachelor of Science in (        ), 2021 ~<br/>
+(　　　) University Bachelor of Science in (　　　　　), 2021 ~<br/>
 <br/>
 <br/>
 ### Baekjoon Online Judge Rank/Tier<br/>
