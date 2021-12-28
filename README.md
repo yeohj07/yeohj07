@@ -13,7 +13,6 @@ Hello<br/>
 Link : https://solved.ac/profile/yeohj0710 <br/>
 <br/>
 <br/>
-Contact : hjyeo0710@naver.com <br/>
 <br/>
   
   
