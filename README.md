@@ -13,7 +13,7 @@ POSTECH Bachelor of Science in Computer Science and Engineering</br>
 <br/>
 <br/>
 <br/>
-Link : https://solved.ac/profile/yeohj0710 <br/>
+Profile Link : https://solved.ac/profile/yeohj0710 <br/>
 <br/>
 <br/>
 <br/>
