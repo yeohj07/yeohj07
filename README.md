@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**yeohj07/yeohj07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,6 +8,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeohj0710)](https://solved.ac/yeohj0710)\
+
+BOJ Rank
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=yeohj0710)](https://solved.ac/yeohj0710)
