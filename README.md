@@ -1,7 +1,8 @@
 Hello!<br/>
 <br/>
-POSTECH Bachelor of Science in Computer Science and Engineering, 2019 ~ 2021</br>
-(　　　) University Bachelor of Science in (　　　　　), 2022 ~<br/>
+2016 ~ 2018 : Gwangju Science Academy for the Gifted
+2019 ~ 2021 : POSTECH Bachelor of Science in Computer Science and Engineering</br>
+2022 ~ XXXX : (　　　) University Bachelor of Science in (　　　　　)<br/>
 <br/>
 <br/>
 ### Baekjoon Online Judge Rank/Tier<br/>
