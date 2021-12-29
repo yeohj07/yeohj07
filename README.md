@@ -2,7 +2,7 @@ Hello!<br/>
 <br/>
 2016 ~ 2018 : Gwangju Science Academy for the Gifted</br>
 2019 ~ 2021 : POSTECH Bachelor of Science in Computer Science and Engineering</br>
-2022 ~ XXXX : (　　　) University Bachelor of Science in (　　　　　)<br/>
+2022 ~ : Scheduled to be transferred (to another univ, have passed)
 <br/>
 <br/>
 ### Baekjoon Online Judge Rank/Tier<br/>
