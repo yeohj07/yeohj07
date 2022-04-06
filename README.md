@@ -18,7 +18,7 @@ Profile Link : https://solved.ac/profile/yeohj0710 <br/>
 <br/>
 <br/>
 <br/>
-# My BOJ(Baekjoon Online Judge) Solutions<br/>
+### My BOJ(Baekjoon Online Judge) Solutions<br/>
 https://github.com/yeohj07/BOJ_solutions
 <br/>
 <br/>
